@@ -1,0 +1,6 @@
+@Jerdan_ShipAI.Server_HostAddress = http://localhost:5096
+
+GET {{Jerdan_ShipAI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
